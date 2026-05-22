@@ -62,7 +62,7 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam**.
 ## 📈 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique01082&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtuan96&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
 </p>
 
 ---
@@ -168,11 +168,11 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam**.
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-3f7fbf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/unique01082">
+  <a href="https://github.com/longtuan96">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://steamcommunity.com/">
     <img src="https://img.shields.io/badge/Steam-0b0f16?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=unique01082&style=for-the-badge&color=4b78b8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=longtuan96&style=for-the-badge&color=4b78b8" alt="Profile views" />
 </p>
