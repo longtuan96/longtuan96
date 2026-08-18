@@ -18,8 +18,6 @@
   </a> -->
 </p>
 
----
-
 ## About
 
 Senior Web Developer based in Vietnam, currently at **FPT Software**. I build and maintain
